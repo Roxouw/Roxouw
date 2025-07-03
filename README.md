@@ -14,6 +14,11 @@ Ola, eu sou o Filipe 👋
 </a>
   <br>
   </div>
+
+  <div align="center" dir="auto">
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/876b098270da9470e4e84e69e8b305828c5c832b73d841fc6433b71b995ca073/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d697361616335343534353426726f773d3126636f6c756d6e3d36267468656d653d64726163756c61266d617267696e2d773d3135266d617267696e2d683d3135"><img src="https://camo.githubusercontent.com/876b098270da9470e4e84e69e8b305828c5c832b73d841fc6433b71b995ca073/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d697361616335343534353426726f773d3126636f6c756d6e3d36267468656d653d64726163756c61266d617267696e2d773d3135266d617267696e2d683d3135" data-canonical-src="https://github-profile-trophy.vercel.app/?username=isaac545454&amp;row=1&amp;column=6&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a>
+  </div>
+  
 <!--  Formação em andamento:
 
 [<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](Link do Curso em Andamento)
